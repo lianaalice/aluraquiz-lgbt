@@ -1,0 +1,164 @@
+{
+  "bg": "https://media.giphy.com/media/26BGK3lg1onPfg7W8/giphy.gif",
+  "title": "Quiz Gênero & Sexualidade",
+  "description": "Vamos testar seus conhecimentos sobre gênero e sexualidade daí?",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/OJCgRyOjDvDnW/giphy.gif",
+      "title": "Qual a diferença entre Pansexual e Bisexual?",
+      "description": "começando no nível difícil já :)",
+      "answer": 1,
+      "alternatives": [
+        "Nenhuma, é tudo a mesma coisa",
+        "Pansexual também sente atração sexual por pessoas não-binárias, para além dos gêneros masculino e feminino",
+        "Pansexual se relaciona com árvores e objetos"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3o7btTZ3G39TDWjdmg/giphy.gif",
+      "title": "Por que o termo 'homosexualismo' é considerado ofensivo?",
+      "description": "be-á-ba",
+      "answer": 0,
+      "alternatives": [
+         "Porque o sufixo 'ismo' faz referência a sexualidade como se ela fosse uma doença e ela não é. O termo correto é homosexualidade",
+         "Porque o sufixo 'ismo' vem da bíblia, onde Deus puniu os gays com estigmas sociais", 
+         "Porque sim, pô."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/Y3eQIlOu5SFHSIH4B9/giphy.gif",
+      "title": "O que são pessoas asexuais?",
+      "description": "",
+      "answer": 3,
+      "alternatives": [
+         "Pessoas que gostam muito de transar",
+         "Pessoas que gostam de fazer menáges", 
+         "Sinônimo de bisexual",
+         "Pessoa que tem pouca ou nenhuma vontade de fazer sexo"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l41YsuSP0eF9FsYSI/giphy.gif",
+      "title": "Tirar a camisinha durante o sexo sem consentimento da pessoa com quem está se relacionando é:",
+      "description": "...",
+      "answer": 2,
+      "alternatives": [
+         "Normal, até porque é chato fazer sexo com camisinha né?!",
+         "Algo pra se evitar pra quem não quer ter filhos", 
+         "É crime de estupro/estelionato sexual",
+         "É uma coisa chata, mas é algo que só diz respeito as pessoas que tiveram essa relação"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/zcUkhnUJqH9UA/giphy.gif",
+      "title": "A masturbação traz benefícios para nós seres humanos?",
+      "description": "...quem nunca né...",
+      "answer": 3,
+      "alternatives": [
+         "Não, pois nosso corpo é feito pra se relacionar com outras pessoas",
+         "Talvez, mas só quando a pessoa estiver solteira, naquela seca né... ", 
+         "Não sei, alguém faz isso? Nem sabia que tinha como...",
+         "Sim, e em outros animais também. Ela relaxa, melhora a qualidade do sono, preveni doenças e diminuir cólicas menstruais, além de trazer conhecimentos sobre seu próprio corpo"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3oKIPwv9exqYPaB03K/giphy.gif",
+      "title": "Segundo estudos, qual é o pior horário para fazer sexo durante o dia?",
+      "description": "...publicados no periódico Frontiers in Psychology",
+      "answer": 0,
+      "alternatives": [
+         "Durante a noite, entre 21h e meia noite, porque nosso corpo está cansado das atividades do dia e precisa descansar.",
+         "De manhã, entre 7h e 10h, porque nosso corpo está acordando e nossos hormônios ainda não estão tão ativos", 
+         "À tarde, entre meio dia e 17h, porque após o almoço fazer sexo pode gerar a sensação de incômodo.",
+         "Todos os horários... Sexo? Pra quê sexo ué?"
+      ]
+    },    {
+      "image": "https://media.giphy.com/media/64a9a1FwoNGQGsHIMl/giphy.gif",
+      "title": "O que é uma pessoa cis?",
+      "description": "uhmmmmmm",
+      "answer": 3,
+      "alternatives": [
+        "É uma pessoa que já possui todos os sisos",
+        "É alguém que se indentifica com o gênero neutro, ou seja, nem masculino nem feminino",
+        "É a pessoa que se atrai por pessoas parecidas com ela", 
+        "É alguém que se identifica com o gênero que lhe foi atribuída ao nascer, ou seja, alguém que não mudou de gênero"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUA7b8w0R09olsxxg4/giphy.gif",
+      "title": "Qual a diferença entre 1- gênero, 2- sexo, 3- sexualidade e 4- afetividade(romanticidade)?",
+      "description": "tá fácil essa heim...",
+      "answer": 0,
+      "alternatives": [
+         "1- é sua identidade: como você se vê e como é percebide; 2- é biologia: o conjunto genes, hormônios, etc; 3- atração sexual, quem você deseja transar; 4- atração emocional, quem você deseja namorar",
+         "1- e 2- é biologia: o conjunto genes, hormônios, etc; 3- e 4- atração fisica", 
+         "1- é uma teoria de destruição da família e da religião; 2- é o da certidão de nascimento; 3- e 4- é algo que você deve evitar saber o que é daí."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/JpvuujeXlSBXBbqlx8/giphy.gif",
+      "title": "Em um espaço público, qual banheiro uma travesti usa?",
+      "description": "pra fazer um xixi tranquila na vida",
+      "answer": 0,
+      "alternatives": [
+         "Feminino",
+         "Masculino", 
+         "Nenhum",
+         "Os dois"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/fV0oSDsZ4UgdW/giphy.gif",
+      "title": "O que é uma pessoa não-binária?",
+      "description": "",
+      "answer": 1,
+      "alternatives": [
+         "É uma pessoa que programa em Javascript",
+         "É uma pessoa que não se encaixa nos gêneros binários (masculino e feminino) ", 
+         "É uma pessoa que não gosta de pessoas bisexuais",
+         "É uma pessoa que não gosta de números"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3oz8xySiR7816MHBCg/giphy.gif",
+      "title": "O que é ideologia de gênero?",
+      "description": "",
+      "answer": 4,
+      "alternatives": [
+         "É uma arma de dominação mundial orquestrada pelo Jef Bezos.",
+         "É uma doutrinação de professores marxistas que querem mudar o sexo de crianças e destruir a família", 
+         "É um conceito sobre quais gêneros alimentícios são melhores termos nas nossas dietas diárias",
+         "É pedofilia e zoofilia", 
+         "É um termo criado para freiar o avanço dos direitos das mulheres, movimento anti-feminista, que se tornou também um movimento para discriminar também homossexuais e pessoas trans"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/11NPpS74y6dOkE/giphy.gif",
+      "title": "O que é uma desconstrução de gênero?",
+      "description": "",
+      "answer": 2,
+      "alternatives": [
+         "É ignorar a existência do gênero",
+         "São as pessoas não-binárias e pansexuais", 
+         "É a reflexão sobre os papéis sociais que são dados a homens e mulheres, e a ação de sair dos padrões estabelecidos pela norma. Buscar autônomia para criar sua identidade ",
+         "É quando um cara muito macho é pego chorando e uma mulher muito fêmea é vista com raiva"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-javascript.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#42a5f5",
+      "secondary": "#0077c2",
+      "mainBg": "#560027dd",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
