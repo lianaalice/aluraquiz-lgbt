@@ -146,9 +146,11 @@
     }
   ],
   "external": [
+    "https://aluraquiz.csatie.vercel.app/",
+    "https://batuquequiz.fihcapua.vercel.app",
     "https://aluraquiz-css.omariosouto.vercel.app/",
     "https://aluraquiz-javascript.omariosouto.vercel.app/",
-    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+    "https://text-adventure-alura.andrepassosb.vercel.app/"
   ],
   "theme": {
     "colors": {
